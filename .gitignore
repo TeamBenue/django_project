@@ -1,0 +1,5 @@
+# NOT NEED venv/
+venv/
+
+# NOT NEED .idea/ FOR CONTRIBUTORS WHO DON'T USE JETBRAIN'S IDE
+.idea/
